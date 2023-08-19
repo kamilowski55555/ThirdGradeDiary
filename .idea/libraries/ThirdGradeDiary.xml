@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ThirdGradeDiary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/ThirdGradeDiary/log4j-core-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/ThirdGradeDiary/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/ThirdGradeDiary/log4j-api-2.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
